@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(46, 46, 221);
+}
+.container{
+    position: relative;
+    left: 40vw;
+    top: 3vw;
+}
+h1{
+    font-size: 80px;
+    color: white;
+}
+form{
+    color: white;
+    
+}
+.user{
+    height: 40px;
+   font-size: 20px;
+   border-radius: 15px;
+}
+.pass{
+    height: 40px;
+    font-size: 20px;
+    border-radius: 15px;
+}
+.inner{
+    border: 2px solid white;
+    height: 500px;
+    width: 350px;
+    padding-left: 50px;
+    padding-top: 20px;
+    position: relative;
+    left: -3.5vw;
+}
+.button{
+    height: 50px;
+    width:150px;
+    font-size: 24px;
+    padding: 8px;
+    border-radius: 20px ;
+    margin-top: 50px;
+    position: relative;
+    left: 8vw;
+}
+.username{
+    font-size: 36px;
+}
+.email{
+    font-size: 36px;
+}
+.password{
+    font-size: 36px;   
+}

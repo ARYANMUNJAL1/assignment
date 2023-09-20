@@ -1,0 +1,58 @@
+/* .main{
+    border:1px solid black;
+    height:100px;
+    width:100%; 
+    background-color:blue;
+}
+body{
+    
+}
+
+ul{
+  list-style-type: none;
+  
+}
+
+ul li{
+    display: inline;
+    text-align:;
+    margin-left: 100px;
+
+} */
+.main{
+    height: 80px;
+    background-color:rgb(35, 35, 138);
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+   
+    
+  }
+ 
+  li {
+    display: inline;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: bold;
+    border-radius: 5px;
+  }
+
+  .login{
+    position: relative;
+    left:78vw;
+  }
+  .signup{
+    position: relative;
+    left:78vw;
+  }
+  .taskbar{
+    position: relative;
+    left: 5vw;
+    font-size: 40px;
+  }
